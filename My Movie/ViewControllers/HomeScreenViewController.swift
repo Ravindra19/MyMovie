@@ -23,7 +23,8 @@ class HomeScreenViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setUpView()
-        self.navigationController?.navigationBar.isHidden = true
+        print("Testing")
+        
     }
     
     private func setUpView() {
