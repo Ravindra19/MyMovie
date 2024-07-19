@@ -19,6 +19,6 @@ class MovieBannerCVCell: UICollectionViewCell {
     }
 
     @IBAction func playButtonAction(_ sender: Any) {
-        
+        print("Play Button Pressed")
     }
 }
